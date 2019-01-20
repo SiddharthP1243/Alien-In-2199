@@ -1,0 +1,3 @@
+We initially thought of doing pygame, then we thought of doing unreal engine, so we did that. 
+But we found out that there is something wrong with that, so we went back to pygame and started it from scratch with few
+codes with us. But we did it.
